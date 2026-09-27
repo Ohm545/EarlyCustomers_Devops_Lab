@@ -1,1 +1,2 @@
 In EarlyCustomers, we are fetching high intent leads and monitor signals from the reddit also.
+We are also providing the top 20 subreddits where most customers can exist for a brand.
