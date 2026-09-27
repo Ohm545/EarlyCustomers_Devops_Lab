@@ -1,0 +1,1 @@
+EarlyCustomers is a SaaS platform which monitors the buying intent and signal from Reddit, LinkedIn, and X. 
